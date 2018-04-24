@@ -1,5 +1,8 @@
 # 2018AzureBootcamp
 
+## PPT位置
+[OneDrive](https://mvpe3-my.sharepoint.com/:f:/g/personal/alan_liu_mvpe3_onmicrosoft_com/Es0blwn-vSJNrBgEFYWWRyoB168c2JYZ3fX73mrk4_nYSg?e=NR4J9y)
+
 ## 直播及影片网址
 
 [開場](http://bxug.bopoda.com/p/panel/18042102)
